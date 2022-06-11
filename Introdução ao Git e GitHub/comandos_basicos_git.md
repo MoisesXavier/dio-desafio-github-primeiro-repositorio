@@ -1,23 +1,22 @@
-# Comandos Básicos - Trabalhando com o Git bash:
+# Comandos BÃ¡sicos - Trabalhando com o Git bash:
 
-### Abaixo falaremos de todos os comando básico, entretanto já é o suficiente para começar a trabalhar com o GIT/GITHUB.
+### Abaixo falaremos de todos os comando bÃ¡sico, entretanto jÃ¡ Ã© o suficiente para comeÃ§ar a trabalhar com o GIT/GITHUB.
 
 
 ## No terminal:
 
-$ pwd -> mostra o caminho completo do diretorio no qual estamos dentro;
-$ ls -> lista tudo que está dentro da pasta/repositório no qual estamos dentro (exceto os arquivos/pastas oucultas);
-$ ls -a -> lista arqvuivos/pastas ocultas;
-$ clear -> limpa toda tela que estamos trabalhando, também podemos usar o atalho do teclado (Ctrl+l);
+1. $ pwd -> mostra o caminho completo do diretorio no qual estamos dentro;
+2. $ ls -> lista tudo que estÃ¡ dentro da pasta/repositÃ³rio no qual estamos dentro (exceto os arquivos/pastas oucultas);
+3. $ ls -a -> lista arqvuivos/pastas ocultas;
+4. $ clear -> limpa toda tela que estamos trabalhando, tambÃ©m podemos usar o atalho do teclado (Ctrl+l);
 
 ## Trabalhando com pasta/arquivos:
 
-$ cd.. -> retroceder apenas um nível de pasta;
-$ cd + / -> nos leva para diretório base;
-$ cd + esapaço + "nome da pasta" -> entra em um pasta, que tem dentro da pasta/repositório que estamos;
-$ mkdir + esapaço + "nome da pasta" -> cria uma pasta; 
-$ rmdir + "nome da pasta" /S /Q -> remove toda pasta/repositório com tudo que está dentro;
-$ rm + "nome da pasta.extensão" -> remover o arquivo especificado;
-$ echo + "algo" -> imprime algo na tela;
-$ echo + > + "nome_do_arquivo.txt" -> cria um arquivo(lembresse de passar a extensão do arquivo que você vai criar);
-del - para deletar os arquivos dentro de uma pasta
+1. $ cd.. -> retroceder apenas um nÃ­vel de pasta;
+2. $ cd + / -> nos leva para diretÃ³rio base;
+3. $ cd + esapaÃ§o + "nome da pasta" -> entra em um pasta, que tem dentro da pasta/repositÃ³rio que estamos;
+4. $ mkdir + esapaÃ§o + "nome da pasta" -> cria uma pasta; 
+5. $ rmdir + "nome da pasta" /S /Q -> remove toda pasta/repositÃ³rio com tudo que estÃ¡ dentro;
+6. $ rm + "nome da pasta.extensÃ£o" -> remover o arquivo especificado;
+7. $ echo + "algo" -> imprime algo na tela;
+8. $ echo + > + "nome_do_arquivo.txt" -> cria um arquivo(lembresse de passar a extensÃ£o do arquivo que vocÃª vai criar);
